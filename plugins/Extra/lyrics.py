@@ -24,9 +24,9 @@ async def sng(bot, message):
         await mee.delete()
         try:
             await mee.delete()
-            await bot.send_message(chat_id, text = rpl, reply_to_message_id = message.id, reply_markup = InlineKeyboardMarkup([[InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇs ", url = f"t.me/vj_botz")]]))
+            await bot.send_message(chat_id, text = rpl, reply_to_message_id = message.id, reply_markup = InlineKeyboardMarkup([[InlineKeyboardButton("𝗠𝗼𝘃𝗶𝗲𝘀 𝗨𝗽𝗱𝗮𝘁𝗲 ", url = f"t.me/MoviesUpdate_07")]]))
         except Exception as e:                            
-            await vj.reply_text(f"I Can't Find A Song With `{song}`", quote = True, reply_markup = InlineKeyboardMarkup([[InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇs", url = f"t.me/vj_botz")]]))
+            await vj.reply_text(f"I Can't Find A Song With `{song}`", quote = True, reply_markup = InlineKeyboardMarkup([[InlineKeyboardButton("𝗠𝗼𝘃𝗶𝗲𝘀 𝗨𝗽𝗱𝗮𝘁𝗲", url = f"t.me/MoviesUpdate_07")]]))
     else:
         await vj.reply_text("Send me only text Buddy.")
 
