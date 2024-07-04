@@ -51,7 +51,7 @@ async def start(client, message):
                 
                 InlineKeyboardButton('𝐌𝐎𝐕𝐈𝐄 𝐆𝐑𝐎𝐔𝐏', url=GRP_LNK)
             ],[
-                InlineKeyboardButton('〄 Hᴇʟᴘ', callback_data='help'),
+                InlineKeyboardButton('〄 𝐇𝐄𝐋𝐏', callback_data='help'),
                 InlineKeyboardButton('⍟ Aʙᴏᴜᴛ', callback_data='about')
             ],[
                 InlineKeyboardButton('🔻 ɢᴇᴛ ғʀᴇᴇ/ᴘᴀɪᴅ sᴜʙsᴄʀɪᴘᴛɪᴏɴ 🔻', callback_data='subscription')
@@ -65,7 +65,7 @@ async def start(client, message):
                 
                 InlineKeyboardButton('𝐌𝐎𝐕𝐈𝐄 𝐆𝐑𝐎𝐔𝐏', url=GRP_LNK)
             ],[
-                InlineKeyboardButton('〄 Hᴇʟᴘ', callback_data='help'),
+                InlineKeyboardButton('〄 𝐇𝐄𝐋𝐏', callback_data='help'),
                 InlineKeyboardButton('⍟ Aʙᴏᴜᴛ', callback_data='about')
             ],[
                 InlineKeyboardButton('✇ Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ ✇', url=CHNL_LNK)
@@ -131,7 +131,7 @@ async def start(client, message):
                 
                 InlineKeyboardButton('𝐌𝐎𝐕𝐈𝐄 𝐆𝐑𝐎𝐔𝐏', url=GRP_LNK)
             ],[
-                InlineKeyboardButton('〄 Hᴇʟᴘ', callback_data='help'),
+                InlineKeyboardButton('〄 𝐇𝐄𝐋𝐏', callback_data='help'),
                 InlineKeyboardButton('⍟ Aʙᴏᴜᴛ', callback_data='about')
             ],[
                 InlineKeyboardButton('🔻 ɢᴇᴛ ғʀᴇᴇ/ᴘᴀɪᴅ sᴜʙsᴄʀɪᴘᴛɪᴏɴ 🔻', callback_data='subscription')
@@ -145,7 +145,7 @@ async def start(client, message):
                 
                 InlineKeyboardButton('𝐌𝐎𝐕𝐈𝐄 𝐆𝐑𝐎𝐔𝐏', url=GRP_LNK)
             ],[
-                InlineKeyboardButton('〄 Hᴇʟᴘ', callback_data='help'),
+                InlineKeyboardButton('〄 𝐇𝐄𝐋𝐏', callback_data='help'),
                 InlineKeyboardButton('⍟ Aʙᴏᴜᴛ', callback_data='about')
             ],[
                 InlineKeyboardButton('✇ Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ ✇', url=CHNL_LNK)
@@ -184,7 +184,7 @@ async def start(client, message):
                     
                     InlineKeyboardButton('𝐌𝐎𝐕𝐈𝐄 𝐆𝐑𝐎𝐔𝐏', url=GRP_LNK)
                 ],[
-                    InlineKeyboardButton('〄 Hᴇʟᴘ', callback_data='help'),
+                    InlineKeyboardButton('〄 𝐇𝐄𝐋𝐏', callback_data='help'),
                     InlineKeyboardButton('⍟ Aʙᴏᴜᴛ', callback_data='about')
                 ],[
                     InlineKeyboardButton('🔻 ɢᴇᴛ ғʀᴇᴇ/ᴘᴀɪᴅ sᴜʙsᴄʀɪᴘᴛɪᴏɴ 🔻', callback_data='subscription')
@@ -198,7 +198,7 @@ async def start(client, message):
                     
                     InlineKeyboardButton('𝐌𝐎𝐕𝐈𝐄 𝐆𝐑𝐎𝐔𝐏', url=GRP_LNK)
                 ],[
-                    InlineKeyboardButton('〄 Hᴇʟᴘ', callback_data='help'),
+                    InlineKeyboardButton('〄 𝐇𝐄𝐋𝐏', callback_data='help'),
                     InlineKeyboardButton('⍟ Aʙᴏᴜᴛ', callback_data='about')
                 ],[
                     InlineKeyboardButton('✇ Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ ✇', url=CHNL_LNK)
