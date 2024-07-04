@@ -27,8 +27,8 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('➕️ 𝐀𝐝𝐝 𝐌𝐞 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 ➕️', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ],[
-            InlineKeyboardButton('𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐆𝐑𝐎𝐔𝐏', url="https://t.me/vj_bot_disscussion"),
-            InlineKeyboardButton('𝐌𝐎𝐕𝐈𝐄 𝐆𝐑𝐎𝐔𝐏', url='https://t.me/vj_bots')
+            InlineKeyboardButton('𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐆𝐑𝐎𝐔𝐏', url="https://t.me/MoviesUpdate_chat"),
+            InlineKeyboardButton('𝐌𝐎𝐕𝐈𝐄 𝐆𝐑𝐎𝐔𝐏', url='https://t.me/prmoviesrequest72')
         ],[
             InlineKeyboardButton('✇ 𝐉𝐎𝐈𝐍 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 ✇', url=CHNL_LNK)
         ]]
@@ -49,7 +49,7 @@ async def start(client, message):
                 InlineKeyboardButton('➕️ 𝐀𝐝𝐝 𝐌𝐞 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 ➕️', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
                 
-                InlineKeyboardButton('𝐌𝐎𝐕𝐈𝐄 𝐆𝐑𝐎𝐔𝐏', url=GRP_LNK)
+                InlineKeyboardButton('𝐌𝐎𝐕𝐈𝐄 𝐆𝐑𝐎𝐔𝐏', url="https://t.me/prmoviesrequest72")
             ],[
                 InlineKeyboardButton('〄 𝐇𝐄𝐋𝐏', callback_data='help'),
                 InlineKeyboardButton('⍟ 𝐀𝐁𝐎𝐔𝐓', callback_data='about')
@@ -63,7 +63,7 @@ async def start(client, message):
                 InlineKeyboardButton('➕️ 𝐀𝐝𝐝 𝐌𝐞 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 ➕️', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
                 
-                InlineKeyboardButton('𝐌𝐎𝐕𝐈𝐄 𝐆𝐑𝐎𝐔𝐏', url=GRP_LNK)
+                InlineKeyboardButton('𝐌𝐎𝐕𝐈𝐄 𝐆𝐑𝐎𝐔𝐏', url="https://t.me/prmoviesrequest72")
             ],[
                 InlineKeyboardButton('〄 𝐇𝐄𝐋𝐏', callback_data='help'),
                 InlineKeyboardButton('⍟ 𝐀𝐁𝐎𝐔𝐓', callback_data='about')
@@ -129,7 +129,7 @@ async def start(client, message):
                 InlineKeyboardButton('➕️ 𝐀𝐝𝐝 𝐌𝐞 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 ➕️', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
                 
-                InlineKeyboardButton('𝐌𝐎𝐕𝐈𝐄 𝐆𝐑𝐎𝐔𝐏', url=GRP_LNK)
+                InlineKeyboardButton('𝐌𝐎𝐕𝐈𝐄 𝐆𝐑𝐎𝐔𝐏', url="https://t.me/prmoviesrequest72")
             ],[
                 InlineKeyboardButton('〄 𝐇𝐄𝐋𝐏', callback_data='help'),
                 InlineKeyboardButton('⍟ 𝐀𝐁𝐎𝐔𝐓', callback_data='about')
@@ -143,7 +143,7 @@ async def start(client, message):
                 InlineKeyboardButton('➕️ 𝐀𝐝𝐝 𝐌𝐞 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 ➕️', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
                 
-                InlineKeyboardButton('𝐌𝐎𝐕𝐈𝐄 𝐆𝐑𝐎𝐔𝐏', url=GRP_LNK)
+                InlineKeyboardButton('𝐌𝐎𝐕𝐈𝐄 𝐆𝐑𝐎𝐔𝐏', url="https://t.me/prmoviesrequest72")
             ],[
                 InlineKeyboardButton('〄 𝐇𝐄𝐋𝐏', callback_data='help'),
                 InlineKeyboardButton('⍟ 𝐀𝐁𝐎𝐔𝐓', callback_data='about')
@@ -182,7 +182,7 @@ async def start(client, message):
                     InlineKeyboardButton('➕️ 𝐀𝐝𝐝 𝐌𝐞 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 ➕️', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
                     
-                    InlineKeyboardButton('𝐌𝐎𝐕𝐈𝐄 𝐆𝐑𝐎𝐔𝐏', url=GRP_LNK)
+                    InlineKeyboardButton('𝐌𝐎𝐕𝐈𝐄 𝐆𝐑𝐎𝐔𝐏', url="https://t.me/prmoviesrequest72")
                 ],[
                     InlineKeyboardButton('〄 𝐇𝐄𝐋𝐏', callback_data='help'),
                     InlineKeyboardButton('⍟ 𝐀𝐁𝐎𝐔𝐓', callback_data='about')
@@ -196,7 +196,7 @@ async def start(client, message):
                     InlineKeyboardButton('➕️ 𝐀𝐝𝐝 𝐌𝐞 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 ➕️', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
                     
-                    InlineKeyboardButton('𝐌𝐎𝐕𝐈𝐄 𝐆𝐑𝐎𝐔𝐏', url=GRP_LNK)
+                    InlineKeyboardButton('𝐌𝐎𝐕𝐈𝐄 𝐆𝐑𝐎𝐔𝐏', url="https://t.me/prmoviesrequest72")
                 ],[
                     InlineKeyboardButton('〄 𝐇𝐄𝐋𝐏', callback_data='help'),
                     InlineKeyboardButton('⍟ 𝐀𝐁𝐎𝐔𝐓', callback_data='about')
