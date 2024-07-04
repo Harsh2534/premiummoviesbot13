@@ -2096,7 +2096,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "about":
         buttons = [[
             InlineKeyboardButton('𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐆𝐑𝐎𝐔𝐏', url=GRP_LNK),
-            InlineKeyboardButton('𝐒𝐎𝐔𝐑𝐂𝐄 𝐂𝐎𝐃𝐄', url="https://github.com/VJBots/VJ-FILTER-BOT")
+            InlineKeyboardButton('𝐒𝐎𝐔𝐑𝐂𝐄 𝐂𝐎𝐃𝐄', url="https://t.me/MoviesUpdate_07")
         ],[
             InlineKeyboardButton('𝐇𝐎𝐌𝐄', callback_data='start'),
             InlineKeyboardButton('𝐂𝐋𝐎𝐒𝐄', callback_data='close_data')
