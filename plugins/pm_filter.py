@@ -2077,8 +2077,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
              InlineKeyboardButton('𝐒𝐎𝐍𝐆', callback_data='song'),
              InlineKeyboardButton('𝐄𝐀𝐑𝐍 𝐌𝐎𝐍𝐄𝐘', callback_data='shortlink_info')
          ], [
-             InlineKeyboardButton('ꜱᴛɪᴄᴋᴇʀ-ɪᴅ', callback_data='sticker'),
-             InlineKeyboardButton('ᴊ-ꜱᴏɴ', callback_data='json')
+             InlineKeyboardButton('𝐒𝐓𝐈𝐂𝐊𝐄𝐑-𝐈𝐃', callback_data='sticker'),
+             InlineKeyboardButton('𝐉-𝐒𝐎𝐍', callback_data='json')
          ], [             
              InlineKeyboardButton('🏠 𝐇𝐎𝐌𝐄 🏠', callback_data='start')
         ]]
