@@ -15,11 +15,11 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
     
 ‣ 𝐌𝐘 𝐍𝐀𝐌𝐄 : <a href=https://t.me/{}>{}</a>
 ‣ 𝐌𝐘 𝐁𝐄𝐒𝐓 𝐅𝐑𝐈𝐄𝐍𝐃 : <a href='tg://settings'>ᴛʜɪs ᴘᴇʀsᴏɴ</a> 
-‣ 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑 : <a href='https://t.me/Anonymousdeveloper098'>ᴛᴇᴄʜ ᴠᴊ</a> 
+‣ 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑 : <a href='https://t.me/Anonymousdeveloper098'>ʜᴀʀsʜɪᴛ ʙʜᴀɪ</a> 
 ‣ 𝐋𝐈𝐁𝐑𝐀𝐑𝐘 : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
-‣ 𝐋𝐀𝐍𝐆𝐔𝐀𝐆𝐄 : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a> 
+‣ 𝐋𝐀𝐍𝐆𝐔𝐀𝐆𝐄 : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 𝟹</a> 
 ‣ 𝐃𝐀𝐓𝐀 𝐁𝐀𝐒𝐄  : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
-‣ 𝐁𝐎𝐓 𝐒𝐄𝐑𝐕𝐄𝐑 : <a href='https://heroku.com'>ʜᴇʀᴏᴋᴜ</a> 
+‣ 𝐁𝐎𝐓 𝐒𝐄𝐑𝐕𝐄𝐑 : <a href='https://app.koyeb.com'>ᴋᴏʏᴇʙ</a> 
 ‣ 𝐁𝐔𝐈𝐋𝐃 𝐒𝐓𝐀𝐓𝐔𝐒 : ᴠ2.7.1 [sᴛᴀʙʟᴇ]></b>"""
 
     SUBSCRIPTION_TXT = """
