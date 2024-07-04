@@ -30,7 +30,7 @@ async def start(client, message):
             InlineKeyboardButton('𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐆𝐑𝐎𝐔𝐏', url="https://t.me/vj_bot_disscussion"),
             InlineKeyboardButton('𝐌𝐎𝐕𝐈𝐄 𝐆𝐑𝐎𝐔𝐏', url='https://t.me/vj_bots')
         ],[
-            InlineKeyboardButton('✇ Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ ✇', url=CHNL_LNK)
+            InlineKeyboardButton('✇ 𝐉𝐎𝐈𝐍 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 ✇', url=CHNL_LNK)
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply(script.START_TXT.format(message.from_user.mention if message.from_user else message.chat.title, temp.U_NAME, temp.B_NAME), reply_markup=reply_markup, disable_web_page_preview=True)
@@ -56,7 +56,7 @@ async def start(client, message):
             ],[
                 InlineKeyboardButton('🔻 ɢᴇᴛ ғʀᴇᴇ/ᴘᴀɪᴅ sᴜʙsᴄʀɪᴘᴛɪᴏɴ 🔻', callback_data='subscription')
             ],[
-                InlineKeyboardButton('✇ Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ ✇', url=CHNL_LNK)
+                InlineKeyboardButton('✇ 𝐉𝐎𝐈𝐍 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 ✇', url=CHNL_LNK)
             ]]
         else:
             buttons = [[
@@ -68,7 +68,7 @@ async def start(client, message):
                 InlineKeyboardButton('〄 𝐇𝐄𝐋𝐏', callback_data='help'),
                 InlineKeyboardButton('⍟ Aʙᴏᴜᴛ', callback_data='about')
             ],[
-                InlineKeyboardButton('✇ Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ ✇', url=CHNL_LNK)
+                InlineKeyboardButton('✇ 𝐉𝐎𝐈𝐍 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 ✇', url=CHNL_LNK)
             ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         m=await message.reply_sticker("CAACAgUAAxkBAAEKVaxlCWGs1Ri6ti45xliLiUeweCnu4AACBAADwSQxMYnlHW4Ls8gQMAQ") 
@@ -92,7 +92,7 @@ async def start(client, message):
             logger.error("Make sure Bot is admin in Forcesub channel")
             return
         btn = [[
-            InlineKeyboardButton("❆ Jᴏɪɴ Uᴘᴅᴀᴛᴇ Cʜᴀɴɴᴇʟ ❆", url=invite_link.invite_link)
+            InlineKeyboardButton("❆ 𝐉𝐎𝐈𝐍 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 ❆", url=invite_link.invite_link)
         ]]
         if message.command[1] != "subscribe":
             if REQUEST_TO_JOIN_MODE == True:
@@ -136,7 +136,7 @@ async def start(client, message):
             ],[
                 InlineKeyboardButton('🔻 ɢᴇᴛ ғʀᴇᴇ/ᴘᴀɪᴅ sᴜʙsᴄʀɪᴘᴛɪᴏɴ 🔻', callback_data='subscription')
             ],[
-                InlineKeyboardButton('✇ Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ ✇', url=CHNL_LNK)
+                InlineKeyboardButton('✇ 𝐉𝐎𝐈𝐍 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 ✇', url=CHNL_LNK)
             ]]
         else:
             buttons = [[
@@ -148,7 +148,7 @@ async def start(client, message):
                 InlineKeyboardButton('〄 𝐇𝐄𝐋𝐏', callback_data='help'),
                 InlineKeyboardButton('⍟ Aʙᴏᴜᴛ', callback_data='about')
             ],[
-                InlineKeyboardButton('✇ Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ ✇', url=CHNL_LNK)
+                InlineKeyboardButton('✇ 𝐉𝐎𝐈𝐍 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 ✇', url=CHNL_LNK)
             ]]
         reply_markup = InlineKeyboardMarkup(buttons)      
         await message.reply_photo(
@@ -189,7 +189,7 @@ async def start(client, message):
                 ],[
                     InlineKeyboardButton('🔻 ɢᴇᴛ ғʀᴇᴇ/ᴘᴀɪᴅ sᴜʙsᴄʀɪᴘᴛɪᴏɴ 🔻', callback_data='subscription')
                 ],[
-                    InlineKeyboardButton('✇ Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ ✇', url=CHNL_LNK)
+                    InlineKeyboardButton('✇ 𝐉𝐎𝐈𝐍 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 ✇', url=CHNL_LNK)
                 ]]
             else:
                 buttons = [[
@@ -201,7 +201,7 @@ async def start(client, message):
                     InlineKeyboardButton('〄 𝐇𝐄𝐋𝐏', callback_data='help'),
                     InlineKeyboardButton('⍟ Aʙᴏᴜᴛ', callback_data='about')
                 ],[
-                    InlineKeyboardButton('✇ Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ ✇', url=CHNL_LNK)
+                    InlineKeyboardButton('✇ 𝐉𝐎𝐈𝐍 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 ✇', url=CHNL_LNK)
                 ]]
             reply_markup = InlineKeyboardMarkup(buttons)
             m=await message.reply_sticker("CAACAgUAAxkBAAEKVaxlCWGs1Ri6ti45xliLiUeweCnu4AACBAADwSQxMYnlHW4Ls8gQMAQ") 
