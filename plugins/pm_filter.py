@@ -2063,13 +2063,13 @@ async def cb_handler(client: Client, query: CallbackQuery):
              InlineKeyboardButton('⚙️ 𝐀𝐃𝐌𝐈𝐍 𝐎𝐍𝐋𝐘 🔧', callback_data='admin'),
          ], [ 
              InlineKeyboardButton('𝐑𝐄𝐍𝐀𝐌𝐄', callback_data='r_txt'),   
-             InlineKeyboardButton('sᴛʀᴇᴀᴍ/ᴅᴏᴡɴʟᴏᴀᴅ', callback_data='s_txt') 
+             InlineKeyboardButton('𝐒𝐓𝐑𝐄𝐀𝐌/𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃', callback_data='s_txt') 
          ], [ 
-             InlineKeyboardButton('ꜰɪʟᴇ ꜱᴛᴏʀᴇ', callback_data='store_file'),   
+             InlineKeyboardButton('𝐅𝐈𝐋𝐄 𝐒𝐓𝐎𝐑𝐄', callback_data='store_file'),   
              InlineKeyboardButton('𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐏𝐇', callback_data='tele') 
          ], [ 
-             InlineKeyboardButton('ᴄᴏɴɴᴇᴄᴛɪᴏɴꜱ', callback_data='coct'), 
-             InlineKeyboardButton('ꜰɪʟᴛᴇʀꜱ', callback_data='filters')
+             InlineKeyboardButton('𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐈𝐎𝐍𝐒', callback_data='coct'), 
+             InlineKeyboardButton('𝐅𝐈𝐋𝐓𝐄𝐑𝐒', callback_data='filters')
          ], [
              InlineKeyboardButton('ʏᴛ-ᴅʟ', callback_data='ytdl'), 
              InlineKeyboardButton('ꜱʜᴀʀᴇ ᴛᴇxᴛ', callback_data='share')
