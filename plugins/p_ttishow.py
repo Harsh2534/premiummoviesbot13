@@ -45,7 +45,7 @@ async def save_group(bot, message):
                     InlineKeyboardButton('𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐆𝐑𝐎𝐔𝐏', url=GRP_LNK),
                     InlineKeyboardButton('𝐔𝐏𝐃𝐀𝐓𝐄𝐒 𝐂𝐇𝐀𝐍𝐍𝐄𝐋', url=CHNL_LNK)
                  ],[
-                    InlineKeyboardButton("𝐁𝐎𝐓 𝐎𝐖𝐍𝐄𝐑", url="t.me/KingVJ01")
+                    InlineKeyboardButton("𝐁𝐎𝐓 𝐎𝐖𝐍𝐄𝐑", url="telegram.me/Anonymousdeveloper098")
                   ]]
         reply_markup=InlineKeyboardMarkup(buttons)
         await message.reply_text(
@@ -68,7 +68,7 @@ async def save_group(bot, message):
                                                                            InlineKeyboardButton('𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐆𝐑𝐎𝐔𝐏', url=GRP_LNK),
                                                                            InlineKeyboardButton('𝐔𝐏𝐃𝐀𝐓𝐄𝐒 𝐂𝐇𝐀𝐍𝐍𝐄𝐋', url=CHNL_LNK)
                                                                         ],[
-                                                                           InlineKeyboardButton("𝐁𝐎𝐓 𝐎𝐖𝐍𝐄𝐑", url="t.me/KingVJ01")
+                                                                           InlineKeyboardButton("𝐁𝐎𝐓 𝐎𝐖𝐍𝐄𝐑", url="telegram.me/Anonymousdeveloper098")
                                                                          ]]
                                                  ),
                                                  parse_mode=enums.ParseMode.HTML
@@ -89,8 +89,8 @@ async def leave_a_chat(bot, message):
         chat = chat
     try:
         buttons = [[
-            InlineKeyboardButton('𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐆𝐑𝐎𝐔𝐏',url="https://t.me/vj_bots"),
-            InlineKeyboardButton("𝐁𝐎𝐓 𝐎𝐖𝐍𝐄𝐑", url="t.me/KingVJ01")
+            InlineKeyboardButton('𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐆𝐑𝐎𝐔𝐏',url="https://t.me/MoviesUpdate_chat"),
+            InlineKeyboardButton("𝐁𝐎𝐓 𝐎𝐖𝐍𝐄𝐑", url="telegram.me/Anonymousdeveloper098")
         ],[
             InlineKeyboardButton('Use Me Here', url=f'https://t.me/{SUPPORT_CHAT}')
         ]]
