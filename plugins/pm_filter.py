@@ -2071,11 +2071,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
              InlineKeyboardButton('𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐈𝐎𝐍𝐒', callback_data='coct'), 
              InlineKeyboardButton('𝐅𝐈𝐋𝐓𝐄𝐑𝐒', callback_data='filters')
          ], [
-             InlineKeyboardButton('ʏᴛ-ᴅʟ', callback_data='ytdl'), 
-             InlineKeyboardButton('ꜱʜᴀʀᴇ ᴛᴇxᴛ', callback_data='share')
+             InlineKeyboardButton('𝐘𝐓-𝐃𝐋', callback_data='ytdl'), 
+             InlineKeyboardButton('𝐒𝐇𝐀𝐑𝐄 𝐓𝐄𝐗𝐓', callback_data='share')
          ], [
-             InlineKeyboardButton('ꜱᴏɴɢ', callback_data='song'),
-             InlineKeyboardButton('ᴇᴀʀɴ ᴍᴏɴᴇʏ', callback_data='shortlink_info')
+             InlineKeyboardButton('𝐒𝐎𝐍𝐆', callback_data='song'),
+             InlineKeyboardButton('𝐄𝐀𝐑𝐍 𝐌𝐎𝐍𝐄𝐘', callback_data='shortlink_info')
          ], [
              InlineKeyboardButton('ꜱᴛɪᴄᴋᴇʀ-ɪᴅ', callback_data='sticker'),
              InlineKeyboardButton('ᴊ-ꜱᴏɴ', callback_data='json')
