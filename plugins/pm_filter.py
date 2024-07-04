@@ -1987,7 +1987,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 InlineKeyboardButton('➕️ 𝐀𝐝𝐝 𝐌𝐞 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 ➕️', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
                 
-                InlineKeyboardButton('𝐌𝐎𝐕𝐈𝐄 𝐆𝐑𝐎𝐔𝐏', url=GRP_LNK)
+                InlineKeyboardButton('𝐌𝐎𝐕𝐈𝐄 𝐆𝐑𝐎𝐔𝐏', url="https://t.me/prmoviesrequest72")
             ],[
                 InlineKeyboardButton('〄 𝐇𝐄𝐋𝐏', callback_data='help'),
                 InlineKeyboardButton('⍟ 𝐀𝐁𝐎𝐔𝐓', callback_data='about')
@@ -2001,7 +2001,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 InlineKeyboardButton('➕️ 𝐀𝐝𝐝 𝐌𝐞 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 ➕️', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
                 
-                InlineKeyboardButton('𝐌𝐎𝐕𝐈𝐄 𝐆𝐑𝐎𝐔𝐏', url=GRP_LNK)
+                InlineKeyboardButton('𝐌𝐎𝐕𝐈𝐄 𝐆𝐑𝐎𝐔𝐏', url="https://t.me/prmoviesrequest72")
             ],[
                 InlineKeyboardButton('〄 𝐇𝐄𝐋𝐏', callback_data='help'),
                 InlineKeyboardButton('⍟ 𝐀𝐁𝐎𝐔𝐓', callback_data='about')
