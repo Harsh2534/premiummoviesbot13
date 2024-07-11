@@ -30,7 +30,7 @@ MELCOW_VID = environ.get("MELCOW_VID", "https://t.me/syx633737/151")
 SPELL_IMG = environ.get("SPELL_IMG", "https://te.legra.ph/file/15c1ad448dfe472a5cbb8.jpg")
 
 # Admins, Channels & Users
-LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002095465544'))
+LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002229340415'))
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '6076852355').split()]
 CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1001948462404').split()]
 auth_users = [int(user) if id_pattern.search(user) else user for user in environ.get('AUTH_USERS', '6076852355').split()]
@@ -138,7 +138,7 @@ if 'DYNO' in environ:
     ON_HEROKU = True
 else:
     ON_HEROKU = False
-URL = environ.get("URL", "https://smiling-quokka-rajkundra35626-8169705c.koyeb.app/")
+URL = environ.get("URL", "https://shaggy-frederique-rahaj26-6dc4bd00.koyeb.app/")
 
 
 # Rename Info : If True Then Bot Rename File Else Not
