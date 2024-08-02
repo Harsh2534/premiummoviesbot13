@@ -2,7 +2,7 @@ name: aptible
 
 on:
   push:
-    branches: [master]
+    branches: [main]
   workflow_dispatch: {}
 
 jobs:
@@ -16,7 +16,7 @@ jobs:
       uses: aptible/aptible-deploy-action@v4
       with:
         type: git
-        app: premiumt
-        environment: draj
+        app: bpm
+        environment: mpb
         username: ${{ secrets.APTIBLE_USERNAME }}
         password: ${{ secrets.APTIBLE_PASSWORD }}
