@@ -68,7 +68,7 @@ OWNER_USERNAME = environ.get('OWNER_USERNAME', 'kingvj01') # owner username with
 # Links
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/MoviesUpdate_chat')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/MoviesUpdate_07')
-TUTORIAL = environ.get('TUTORIAL', 'https://t.me/tutorials0128/29')
+TUTORIAL = environ.get('TUTORIAL', 'https://t.me/tutorials0128/30')
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'MoviesUpdate_chat') # Support Chat Link Without https:// or @
 
 # True Or False
@@ -102,8 +102,8 @@ VERIFY_TUTORIAL = environ.get('VERIFY_TUTORIAL', 'https://t.me/tutorials0128/26'
 
 # Shortlink Info
 SHORTLINK_MODE = bool(environ.get('SHORTLINK_MODE', True))
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'luckyurl.in')
-SHORTLINK_API = environ.get('SHORTLINK_API', '5632c50c864a53d815da3d126b2ae535fa674b94')
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'inshorturl.com')
+SHORTLINK_API = environ.get('SHORTLINK_API', 'd118be06062fbf71a2ef322789c5bb90fcb2ed40')
 
 # Others
 MAX_B_TN = environ.get("MAX_B_TN", "5")
