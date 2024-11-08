@@ -20,7 +20,7 @@ def is_enabled(value, default):
 SESSION = environ.get('SESSION', 'TechVJBot')
 API_ID = int(environ.get('API_ID', '28132883'))
 API_HASH = environ.get('API_HASH', '22eefd902a5b8edfceeeab1487ed60c8')
-BOT_TOKEN = environ.get('BOT_TOKEN', "5909962394:AAH54W5kal25pdpqloKPhxCQHLq28SJHIEs")
+BOT_TOKEN = environ.get('BOT_TOKEN', "5909962394:AAEfMlLFg850dFQeqO4D33FXXiKY8nG8ZJI")
 
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 1800))
@@ -107,7 +107,7 @@ SHORTLINK_API = environ.get('SHORTLINK_API', '5632c50c864a53d815da3d126b2ae535fa
 
 # Others
 MAX_B_TN = environ.get("MAX_B_TN", "5")
-PORT = environ.get("PORT", "8080")
+PORT = environ.get("PORT", "8880")
 MSG_ALRT = environ.get('MSG_ALRT', 'Thanks To Harshit Bhai❤️')
 CUSTOM_FILE_CAPTION = environ.get("CUSTOM_FILE_CAPTION", "[{file_name}](https://t.me/Moviesupdate_07)")
 BATCH_FILE_CAPTION = environ.get("BATCH_FILE_CAPTION", CUSTOM_FILE_CAPTION)
